@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<title>Products</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-pink" >
+  <center><h1 style="font-family:Bradley hand ITC"><b>👗Lini Lini Cosmetics👗</b></h1></center>
+</div>
+
+<div class="w3-row-padding w3-margin-top">
+  <div class="w3-third">
+    <div class="w3-card">
+      <a href="shoppingorder.html"><img src="https://rukminim1.flixcart.com/image/416/416/k2p1q4w0/concealer/g/k/v/new-york-fit-me-concealer-maybelline-original-imafhzhzmuygj4zq.jpeg?q=70" style="width:100%"></a>
+      <div class="w3-container">
+        <h5><em>MAYBELLINE NEW YORK Fit Me Concealer </em></h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="https://www.bigbasket.com/media/uploads/p/l/40078281_7-lakme-absolute-shine-liquid-eye-liner.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5><em>Lakme Absolute Shine Liquid Eye Liner<em></h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="https://cdn.webshopapp.com/shops/125574/files/325121797/545x545x2/maybelline-maybelline-lash-sensational-mascara.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5><em>Maybelline Lash Sensational Mascara</em></h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-margin-top">
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="https://rukminim1.flixcart.com/image/416/416/k2p1q4w0/foundation/p/a/f/30-new-york-fit-me-matte-poreless-liquid-maybelline-original-imafk8eaguzp75tk.jpeg?q=70" style="width:100%">
+      <div class="w3-container">
+        <h5><em>MAYBELLINE NEW YORK Fit Me Matte+Poreless Liquid Foundation</em></h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="https://rukminim1.flixcart.com/image/416/416/kppt47k0/lip-gloss/l/l/7/starshimmer-glam-lipgloss-peek-a-boo-biotique-original-imag3w24zjunhnez.jpeg?q=70" style="width:100%">
+      <div class="w3-container">
+        <h5><em>Starshimmer Glam Lipgloss, Peek A Boo</em></h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="https://media6.ppl-media.com/tr:h-750,w-750,c-at_max/static/img/product/202869/good-vibes-hydrating-face-cream-lotus-and-sage-50-g_2_display_1595306372_e00a73c0.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5><em>Good Vibes Hydrating Face Cream - Lotus & Sage</em></h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
